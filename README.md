@@ -10,8 +10,8 @@ or +31-624981829
 Payment method:
 https://transferwise.com/invite/a/mohita
 
-IBAN: GB58 REVO 0099 7099 7512 13
-BIC: REVOGB21
-Beneficiary: Mohit Agnihotri
-Beneficiary address: 29, Hagenkampweg Noord, 5616TD, Noord-Brabant, Eindhoven, NL
+# IBAN: GB58 REVO 0099 7099 7512 13
+# BIC: REVOGB21
+# Beneficiary: Mohit Agnihotri
+# Beneficiary address: 29, Hagenkampweg Noord, 5616TD, Noord-Brabant, Eindhoven, NL
 
